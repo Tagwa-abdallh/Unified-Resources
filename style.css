@@ -1,0 +1,17 @@
+    
+    body {
+      font-family: 'Cairo', sans-serif;
+      background-color: #fbfcfd 
+    }
+
+    .hero {
+      background: url('./Assets/تحصيل موحد.jpg') center/cover no-repeat;
+      height: 350px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 2rem;
+      font-weight: bold;
+      text-shadow: 5px 5px 10px #000;
+    }
